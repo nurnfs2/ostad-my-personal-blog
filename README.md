@@ -1,2 +1,2 @@
 # ostad-my-personal-blog
-My Personal Blog
+https://nurnfs2.github.io/ostad-my-personal-blog/
